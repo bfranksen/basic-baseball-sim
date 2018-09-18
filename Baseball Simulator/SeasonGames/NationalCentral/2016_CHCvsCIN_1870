@@ -1,0 +1,448 @@
+Chicago Cubs Batting Order:
+	1: Dexter Fowler (CF)
+	2: Kris Bryant (3B)
+	3: Anthony Rizzo (1B)
+	4: Ben Zobrist (LF)
+	5: Addison Russell (SS)
+	6: Jason Heyward (RF)
+	7: Javier Baez (2B)
+	8: Miguel Montero (C)
+	9: John Lackey (P)
+
+Cincinatti Reds Batting Order:
+	1: Zack Cozart (SS)
+	2: Eugenio Suarez (3B)
+	3: Joey Votto (1B)
+	4: Jay Bruce (RF)
+	5: Adam Duvall (LF)
+	6: Brandon Phillips (2B)
+	7: Billy Hamilton (CF)
+	8: Tucker Barnhart (C)
+	9: Dan Straily (P)
+----------------------------------------------------------------------------------------------------------
+Welcome to Baseball Sim. Today's game is between the Chicago Cubs and the Cincinatti Reds.
+	The starting pitcher for the Chicago Cubs is John Lackey.
+	The starting pitcher for the Cincinatti Reds is Dan Straily.
+----------------------------------------------------------------------------------------------------------
+
+Top of 1. CHC: 0 - CIN: 0
+
+Dexter Fowler is up to bat.
+Dexter Fowler hits a fieldable ball to 1B.
+1 out!
+Kris Bryant is up to bat.
+Kris Bryant hits a fieldable ball to 1B.
+2 outs!
+Anthony Rizzo is up to bat.
+Anthony Rizzo hits a fieldable ball to P.
+3 outs!
+
+Bottom of 1. CHC: 0 - CIN: 0
+
+Zack Cozart is up to bat.
+Zack Cozart strikes out.
+1 out!
+Eugenio Suarez is up to bat.
+Eugenio Suarez hits a fieldable ball to SS.
+2 outs!
+Joey Votto is up to bat.
+Joey Votto draws a walk.
+	Joey Votto reaches 1B.
+Jay Bruce is up to bat.
+Jay Bruce hits a fieldable ball to RF.
+3 outs!
+
+Top of 2. CHC: 0 - CIN: 0
+
+Ben Zobrist is up to bat.
+Ben Zobrist hits a fieldable ball to CF.
+1 out!
+Addison Russell is up to bat.
+Addison Russell strikes out.
+2 outs!
+Jason Heyward is up to bat.
+Jason Heyward strikes out.
+3 outs!
+
+Bottom of 2. CHC: 0 - CIN: 0
+
+Adam Duvall is up to bat.
+Adam Duvall strikes out.
+1 out!
+Brandon Phillips is up to bat.
+Brandon Phillips hits a home run.
+	Brandon Phillips scores.
+Billy Hamilton is up to bat.
+Billy Hamilton hits a ground ball between 1B and 2B for a single.
+	Billy Hamilton reaches 1B.
+Tucker Barnhart is up to bat.
+Tucker Barnhart hits a double.
+	Billy Hamilton scores.
+	Tucker Barnhart reaches 2B.
+Dan Straily is up to bat.
+Dan Straily strikes out.
+2 outs!
+Zack Cozart is up to bat.
+Zack Cozart strikes out.
+3 outs!
+
+Top of 3. CHC: 0 - CIN: 2
+
+Javier Baez is up to bat.
+Javier Baez hits a weak ground ball for a single.
+	Javier Baez reaches 1B.
+Miguel Montero is up to bat.
+Miguel Montero hits a fieldable ball to 2B.
+The play results in a fielder's choice. Miguel Montero is out at 1B.
+	Javier Baez advances to 2B.
+1 out!
+John Lackey is up to bat.
+John Lackey strikes out.
+2 outs!
+Dexter Fowler is up to bat.
+Dexter Fowler hits a ground ball between 3B and SS for a single.
+	Javier Baez advances to 3B.
+	Dexter Fowler reaches 1B.
+Kris Bryant is up to bat.
+Kris Bryant hits a fieldable ball to SS.
+3 outs!
+
+Bottom of 3. CHC: 0 - CIN: 2
+
+Eugenio Suarez is up to bat.
+Eugenio Suarez hits a fieldable ball to P.
+1 out!
+Joey Votto is up to bat.
+Joey Votto draws a walk.
+	Joey Votto reaches 1B.
+Jay Bruce is up to bat.
+Jay Bruce hits a fieldable ball to 1B.
+The play results in a fielder's choice. Joey Votto is out at 2B.
+	Jay Bruce reaches 1B.
+2 outs!
+Adam Duvall is up to bat.
+Adam Duvall hits a fieldable ball to 2B.
+3 outs!
+
+Top of 4. CHC: 0 - CIN: 2
+
+Anthony Rizzo is up to bat.
+Anthony Rizzo hits a double.
+	Anthony Rizzo reaches 2B.
+Ben Zobrist is up to bat.
+Ben Zobrist hits a home run.
+	Anthony Rizzo scores.
+	Ben Zobrist scores.
+Addison Russell is up to bat.
+Addison Russell strikes out.
+1 out!
+Jason Heyward is up to bat.
+Jason Heyward hits a fieldable ball to P.
+2 outs!
+Javier Baez is up to bat.
+Javier Baez strikes out.
+3 outs!
+
+Bottom of 4. CHC: 2 - CIN: 2
+
+Brandon Phillips is up to bat.
+Brandon Phillips strikes out.
+1 out!
+Billy Hamilton is up to bat.
+Billy Hamilton strikes out.
+2 outs!
+Tucker Barnhart is up to bat.
+Tucker Barnhart hits a fieldable ball to SS.
+3 outs!
+
+Top of 5. CHC: 2 - CIN: 2
+
+Miguel Montero is up to bat.
+Miguel Montero hits a fieldable ball to P.
+1 out!
+John Lackey is up to bat.
+John Lackey strikes out.
+2 outs!
+Dexter Fowler is up to bat.
+Dexter Fowler hits a fieldable ball to RF.
+3 outs!
+
+Bottom of 5. CHC: 2 - CIN: 2
+
+Dan Straily is up to bat.
+Dan Straily strikes out.
+1 out!
+Zack Cozart is up to bat.
+Zack Cozart strikes out.
+2 outs!
+Eugenio Suarez is up to bat.
+Eugenio Suarez hits a fieldable ball to CF.
+3 outs!
+
+Top of 6. CHC: 2 - CIN: 2
+
+Kris Bryant is up to bat.
+Kris Bryant draws a walk.
+	Kris Bryant reaches 1B.
+Anthony Rizzo is up to bat.
+Anthony Rizzo hits a fieldable ball to CF.
+1 out!
+Ben Zobrist is up to bat.
+	Kris Bryant is out trying to steal 2B!
+2 outs!
+Ben Zobrist is up to bat.
+Ben Zobrist hits a fieldable ball to 1B.
+3 outs!
+
+Bottom of 6. CHC: 2 - CIN: 2
+
+Joey Votto is up to bat.
+Joey Votto strikes out.
+1 out!
+Jay Bruce is up to bat.
+Jay Bruce hits a fieldable ball to SS.
+2 outs!
+Adam Duvall is up to bat.
+Adam Duvall hits a fieldable ball to P.
+3 outs!
+
+Top of 7. CHC: 2 - CIN: 2
+
+Addison Russell is up to bat.
+Addison Russell hits a line drive to LF for a single.
+	Addison Russell reaches 1B.
+Jason Heyward is up to bat.
+Jason Heyward strikes out.
+1 out!
+Pitching Substitution: Ross Ohlendorf for Dan Straily. Dan Straily leaves the game with 107 pitches
+Javier Baez is up to bat.
+Javier Baez strikes out.
+2 outs!
+Miguel Montero is up to bat.
+Miguel Montero hits a fieldable ball to 3B.
+3 outs!
+
+Bottom of 7. CHC: 2 - CIN: 2
+
+Brandon Phillips is up to bat.
+Brandon Phillips strikes out.
+1 out!
+Billy Hamilton is up to bat.
+Billy Hamilton hits a double.
+	Billy Hamilton reaches 2B.
+Pitching Substitution: Trevor Cahill for John Lackey. John Lackey leaves the game with 109 pitches
+Tucker Barnhart is up to bat.
+Tucker Barnhart draws a walk.
+	Tucker Barnhart reaches 1B.
+Pinch Hitter: Ramon Cabrera for Ross Ohlendorf. Ross Ohlendorf leaves the game with 12 pitches
+Ramon Cabrera is up to bat.
+Ramon Cabrera strikes out.
+2 outs!
+Zack Cozart is up to bat.
+Zack Cozart hits a fieldable ball to LF.
+3 outs!
+
+Top of 8. CHC: 2 - CIN: 2
+
+Pitching Substitution: Raisel Iglesias for Ramon Cabrera.
+Trevor Cahill is up to bat.
+Trevor Cahill strikes out.
+1 out!
+Dexter Fowler is up to bat.
+Dexter Fowler hits a triple.
+	Dexter Fowler reaches 3B.
+Kris Bryant is up to bat.
+Kris Bryant strikes out.
+2 outs!
+Anthony Rizzo is up to bat.
+Anthony Rizzo hits a line drive to CF for a single.
+	Dexter Fowler scores.
+	Anthony Rizzo reaches 1B.
+Ben Zobrist is up to bat.
+Ben Zobrist draws a walk.
+	Anthony Rizzo advances to 2B.
+	Ben Zobrist reaches 1B.
+Addison Russell is up to bat.
+Addison Russell hits a fieldable ball to CF.
+3 outs!
+
+Bottom of 8. CHC: 3 - CIN: 2
+
+Pitching Substitution: Hector Rondon for Trevor Cahill. Trevor Cahill leaves the game with 13 pitches
+Eugenio Suarez is up to bat.
+Eugenio Suarez hits a home run.
+	Eugenio Suarez scores.
+Joey Votto is up to bat.
+Joey Votto draws a walk.
+	Joey Votto reaches 1B.
+Jay Bruce is up to bat.
+Jay Bruce hits a fieldable ball to P.
+1 out!
+Adam Duvall is up to bat.
+Adam Duvall strikes out.
+2 outs!
+Brandon Phillips is up to bat.
+Brandon Phillips hits a fieldable ball to P.
+3 outs!
+
+Top of 9. CHC: 3 - CIN: 3
+
+Pitching Substitution: Tony Cingrani for Raisel Iglesias. Raisel Iglesias leaves the game with 31 pitches
+Jason Heyward is up to bat.
+Jason Heyward strikes out.
+1 out!
+Javier Baez is up to bat.
+Javier Baez hits a fieldable ball to CF.
+2 outs!
+Miguel Montero is up to bat.
+Miguel Montero draws a walk.
+	Miguel Montero reaches 1B.
+Hector Rondon is up to bat.
+Hector Rondon strikes out.
+3 outs!
+
+Bottom of 9. CHC: 3 - CIN: 3
+
+Pitching Substitution: Aroldis Chapman for Hector Rondon. Hector Rondon leaves the game with 21 pitches
+Billy Hamilton is up to bat.
+Billy Hamilton strikes out.
+1 out!
+Tucker Barnhart is up to bat.
+Tucker Barnhart hits a fieldable ball to P.
+2 outs!
+Tony Cingrani is up to bat.
+Tony Cingrani strikes out.
+3 outs!
+
+Top of 10. CHC: 3 - CIN: 3
+
+Dexter Fowler is up to bat.
+Dexter Fowler draws a walk.
+	Dexter Fowler reaches 1B.
+Kris Bryant is up to bat.
+Kris Bryant hits a fieldable ball to 2B.
+The play results in a fielder's choice. Kris Bryant is out at 1B.
+	Dexter Fowler advances to 2B.
+1 out!
+Anthony Rizzo is up to bat.
+Anthony Rizzo draws a walk.
+	Anthony Rizzo reaches 1B.
+Pitching Substitution: Josh Smith for Tony Cingrani. Tony Cingrani leaves the game with 36 pitches
+Ben Zobrist is up to bat.
+Ben Zobrist hits a double.
+	Dexter Fowler scores.
+	Anthony Rizzo advances to 3B.
+	Ben Zobrist reaches 2B.
+Addison Russell is up to bat.
+Addison Russell hits a home run.
+	Anthony Rizzo scores.
+	Ben Zobrist scores.
+	Addison Russell scores.
+Jason Heyward is up to bat.
+Jason Heyward draws a walk.
+	Jason Heyward reaches 1B.
+Javier Baez is up to bat.
+Javier Baez hits a fieldable ball to SS.
+The infield turns a double play!
+3 outs!
+
+Bottom of 10. CHC: 7 - CIN: 3
+
+Zack Cozart is up to bat.
+Zack Cozart draws a walk.
+	Zack Cozart reaches 1B.
+Eugenio Suarez is up to bat.
+Eugenio Suarez hits a double.
+	Zack Cozart scores.
+	Eugenio Suarez reaches 2B.
+Joey Votto is up to bat.
+Joey Votto hits a line drive to RF for a single.
+	Eugenio Suarez advances to 3B.
+	Joey Votto reaches 1B.
+Pitching Substitution: Rob Zastryzny for Aroldis Chapman. Aroldis Chapman leaves the game with 27 pitches
+Jay Bruce is up to bat.
+Jay Bruce hits a fieldable ball to RF.
+The hit is a sac fly.
+	Eugenio Suarez scores.
+1 out!
+Adam Duvall is up to bat.
+Adam Duvall strikes out.
+2 outs!
+Brandon Phillips is up to bat.
+Brandon Phillips hits a ground ball between 3B and SS for a single.
+	Joey Votto advances to 2B.
+	Brandon Phillips reaches 1B.
+Billy Hamilton is up to bat.
+Billy Hamilton hits a fieldable ball to SS.
+3 outs!
+
+Chicago Cubs win, 7 to 5
+
+
+                        1  2  3    4  5  6    7  8  9    10     R   H   E
+                        -- -- --   -- -- --   -- -- --   --    -   -   -
+Chicago Cubs            0  0  0    2  0  0    0  1  0    4    7   9   0
+Cincinatti Reds         0  2  0    0  0  0    0  1  0    2    5   8   0
+
+
+Chicago Cubs Box Score
++------------------------------+------+------+------+------+------+------+------+-------+
+|    BATTING                   |   AB |    R |    H |  RBI |   BB |    K |   HR |   AVG |
++------------------------------+------+------+------+------+------+------+------+-------+
+| Dexter Fowler (CF)           |    4 |    2 |    2 |    0 |    1 |    0 |    0 |  .500 |
+| Kris Bryant (3B)             |    4 |    0 |    0 |    0 |    1 |    1 |    0 |  .000 |
+| Anthony Rizzo (1B)           |    4 |    2 |    2 |    1 |    1 |    0 |    0 |  .500 |
+| Ben Zobrist (LF)             |    4 |    2 |    2 |    3 |    1 |    0 |    1 |  .500 |
+| Addison Russell (SS)         |    5 |    1 |    2 |    3 |    0 |    2 |    1 |  .400 |
+| Jason Heyward (RF)           |    4 |    0 |    0 |    0 |    1 |    3 |    0 |  .000 |
+| Javier Baez (2B)             |    5 |    0 |    1 |    0 |    0 |    2 |    0 |  .200 |
+| Miguel Montero (C)           |    3 |    0 |    0 |    0 |    1 |    0 |    0 |  .000 |
+| John Lackey (P)              |    2 |    0 |    0 |    0 |    0 |    2 |    0 |  .000 |
+|    Trevor Cahill (P)         |    1 |    0 |    0 |    0 |    0 |    1 |    0 |  .000 |
+|    Hector Rondon (P)         |    1 |    0 |    0 |    0 |    0 |    1 |    0 |  .000 |
++------------------------------+------+------+------+------+------+------+------+-------+
+|            TOTALS            |   37 |    7 |    9 |    7 |    6 |   12 |    2 |  .243 |
++------------------------------+------+------+------+------+------+------+------+-------+
+|=======================================================================================|
++------------------------------+------+------+------+------+------+------+------+-------+
+|    PITCHING                  |   IP |    H |    R |   ER |   BB |    K |   HR |   ERA |
++------------------------------+------+------+------+------+------+------+------+-------+
+| John Lackey                  |  6.1 |    4 |    0 |    2 |    2 |   10 |    1 |  2.84 |
+| Trevor Cahill                |  0.2 |    0 |    0 |    0 |    1 |    1 |    0 |  0.00 |
+| Hector Rondon                |  1.0 |    1 |    0 |    1 |    1 |    1 |    1 |  9.00 |
+| Aroldis Chapman              |  1.0 |    2 |    0 |    1 |    1 |    2 |    0 |  9.00 |
+| Rob Zastryzny                |  1.0 |    1 |    0 |    1 |    0 |    1 |    0 |  9.00 |
++------------------------------+------+------+------+------+------+------+------+-------+
+|            TOTALS            | 10.0 |    8 |    0 |    5 |    5 |   15 |    2 |  4.50 |
++------------------------------+------+------+------+------+------+------+------+-------+
+
+Cincinatti Reds Box Score
++------------------------------+------+------+------+------+------+------+------+-------+
+|    BATTING                   |   AB |    R |    H |  RBI |   BB |    K |   HR |   AVG |
++------------------------------+------+------+------+------+------+------+------+-------+
+| Zack Cozart (SS)             |    4 |    1 |    0 |    0 |    1 |    3 |    0 |  .000 |
+| Eugenio Suarez (3B)          |    5 |    2 |    2 |    2 |    0 |    0 |    1 |  .400 |
+| Joey Votto (1B)              |    2 |    0 |    1 |    0 |    3 |    1 |    0 |  .500 |
+| Jay Bruce (RF)               |    4 |    0 |    0 |    1 |    0 |    0 |    0 |  .000 |
+| Adam Duvall (LF)             |    5 |    0 |    0 |    0 |    0 |    3 |    0 |  .000 |
+| Brandon Phillips (2B)        |    5 |    1 |    2 |    1 |    0 |    2 |    1 |  .400 |
+| Billy Hamilton (CF)          |    5 |    1 |    2 |    0 |    0 |    2 |    0 |  .400 |
+| Tucker Barnhart (C)          |    3 |    0 |    1 |    1 |    1 |    0 |    0 |  .333 |
+| Dan Straily (P)              |    2 |    0 |    0 |    0 |    0 |    2 |    0 |  .000 |
+|    Ramon Cabrera (PH)        |    1 |    0 |    0 |    0 |    0 |    1 |    0 |  .000 |
+|    Tony Cingrani (P)         |    1 |    0 |    0 |    0 |    0 |    1 |    0 |  .000 |
++------------------------------+------+------+------+------+------+------+------+-------+
+|            TOTALS            |   37 |    5 |    8 |    5 |    5 |   15 |    2 |  .216 |
++------------------------------+------+------+------+------+------+------+------+-------+
+|=======================================================================================|
++------------------------------+------+------+------+------+------+------+------+-------+
+|    PITCHING                  |   IP |    H |    R |   ER |   BB |    K |   HR |   ERA |
++------------------------------+------+------+------+------+------+------+------+-------+
+| Dan Straily                  |  6.1 |    5 |    0 |    2 |    1 |    7 |    1 |  2.84 |
+| Ross Ohlendorf               |  0.2 |    0 |    0 |    0 |    0 |    1 |    0 |  0.00 |
+| Raisel Iglesias              |  1.0 |    2 |    0 |    1 |    1 |    2 |    0 |  9.00 |
+| Tony Cingrani                |  1.1 |    0 |    0 |    0 |    3 |    2 |    0 |  0.00 |
+| Josh Smith                   |  0.2 |    2 |    0 |    4 |    1 |    0 |    1 | 54.00 |
++------------------------------+------+------+------+------+------+------+------+-------+
+|            TOTALS            | 10.0 |    9 |    0 |    7 |    6 |   12 |    2 |  6.30 |
++------------------------------+------+------+------+------+------+------+------+-------+

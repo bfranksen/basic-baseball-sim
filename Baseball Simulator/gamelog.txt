@@ -1,0 +1,335 @@
+Cincinatti Reds Batting Order:
+	1: Mookie Betts (RF)
+	2: Dustin Pedroia (2B)
+	3: Xander Bogaerts (SS)
+	4: Hanley Ramirez (1B)
+	5: Travis Shaw (3B)
+	6: Brock Holt (LF)
+	7: Sandy Leon (C)
+	8: Jackie Bradley (CF)
+	9: Rick Porcello (P)
+
+Chicago Cubs Batting Order:
+	1: Dexter Fowler (CF)
+	2: Kris Bryant (3B)
+	3: Anthony Rizzo (1B)
+	4: Ben Zobrist (LF)
+	5: Addison Russell (SS)
+	6: Jason Heyward (RF)
+	7: Javier Baez (2B)
+	8: Miguel Montero (C)
+	9: Kyle Hendricks (P)
+----------------------------------------------------------------------------------------------------------
+Welcome to Baseball Sim. Today's game is between the Cincinatti Reds and the Chicago Cubs.
+	The starting pitcher for the Cincinatti Reds is Rick Porcello.
+	The starting pitcher for the Chicago Cubs is Kyle Hendricks.
+----------------------------------------------------------------------------------------------------------
+
+Top of 1. CIN: 0 - CHC: 0
+
+Mookie Betts is up to bat.
+Mookie Betts hits a ground ball up the middle for a single.
+	Mookie Betts reaches 1B.
+Dustin Pedroia is up to bat.
+Dustin Pedroia strikes out.
+1 out!
+Xander Bogaerts is up to bat.
+Xander Bogaerts hits a ground ball up the middle for a single.
+	Mookie Betts advances to 2B.
+	Xander Bogaerts reaches 1B.
+Hanley Ramirez is up to bat.
+Hanley Ramirez hits a home run.
+	Mookie Betts scores.
+	Xander Bogaerts scores.
+	Hanley Ramirez scores.
+Travis Shaw is up to bat.
+Travis Shaw draws a walk.
+	Travis Shaw reaches 1B.
+Brock Holt is up to bat.
+Brock Holt hits a fieldable ball to RF.
+2 outs!
+Sandy Leon is up to bat.
+Sandy Leon hits a fieldable ball to 3B.
+3 outs!
+
+Bottom of 1. CIN: 3 - CHC: 0
+
+Dexter Fowler is up to bat.
+Dexter Fowler hits a triple.
+	Dexter Fowler reaches 3B.
+Kris Bryant is up to bat.
+Kris Bryant strikes out.
+1 out!
+Anthony Rizzo is up to bat.
+Anthony Rizzo hits a fieldable ball to LF.
+The hit is a sac fly.
+	Dexter Fowler scores.
+2 outs!
+Ben Zobrist is up to bat.
+Ben Zobrist hits a ground ball between 1B and 2B for a single.
+	Ben Zobrist reaches 1B.
+Addison Russell is up to bat.
+Addison Russell is hit by a pitch.
+	Ben Zobrist advances to 2B.
+	Addison Russell reaches 1B.
+Jason Heyward is up to bat.
+Jason Heyward hits a fieldable ball to RF.
+3 outs!
+
+Top of 2. CIN: 3 - CHC: 1
+
+Jackie Bradley is up to bat.
+Jackie Bradley hits a fieldable ball to 3B.
+1 out!
+Rick Porcello is up to bat.
+Rick Porcello hits a fieldable ball to RF.
+2 outs!
+Mookie Betts is up to bat.
+Mookie Betts hits a fieldable ball to 2B.
+3 outs!
+
+Bottom of 2. CIN: 3 - CHC: 1
+
+Javier Baez is up to bat.
+Javier Baez strikes out.
+1 out!
+Miguel Montero is up to bat.
+Miguel Montero hits a fieldable ball to 1B.
+2 outs!
+Kyle Hendricks is up to bat.
+Kyle Hendricks hits a fieldable ball to 1B.
+3 outs!
+
+Top of 3. CIN: 3 - CHC: 1
+
+Dustin Pedroia is up to bat.
+Dustin Pedroia strikes out.
+1 out!
+Xander Bogaerts is up to bat.
+Xander Bogaerts hits a fieldable ball to 2B.
+2 outs!
+Hanley Ramirez is up to bat.
+Hanley Ramirez hits a ground ball down the 1B line for a single.
+	Hanley Ramirez reaches 1B.
+Travis Shaw is up to bat.
+	Hanley Ramirez is out trying to steal 2B!
+3 outs!
+
+Bottom of 3. CIN: 3 - CHC: 1
+
+Dexter Fowler is up to bat.
+Dexter Fowler hits a double.
+	Dexter Fowler reaches 2B.
+Kris Bryant is up to bat.
+Kris Bryant hits a fieldable ball to LF.
+1 out!
+Anthony Rizzo is up to bat.
+Anthony Rizzo hits a fieldable ball to RF.
+The hit is a sac fly.
+	Dexter Fowler advances to 3B.
+2 outs!
+Ben Zobrist is up to bat.
+Ben Zobrist hits a triple.
+	Dexter Fowler scores.
+	Ben Zobrist reaches 3B.
+Addison Russell is up to bat.
+Addison Russell hits a fieldable ball to SS.
+3 outs!
+
+Top of 4. CIN: 3 - CHC: 2
+
+Travis Shaw is up to bat.
+Travis Shaw strikes out.
+1 out!
+Brock Holt is up to bat.
+Brock Holt strikes out.
+2 outs!
+Sandy Leon is up to bat.
+Sandy Leon is hit by a pitch.
+	Sandy Leon reaches 1B.
+Jackie Bradley is up to bat.
+Jackie Bradley hits a fieldable ball to P.
+3 outs!
+
+Bottom of 4. CIN: 3 - CHC: 2
+
+Jason Heyward is up to bat.
+Jason Heyward strikes out.
+1 out!
+Javier Baez is up to bat.
+Javier Baez hits a fieldable ball to CF.
+2 outs!
+Miguel Montero is up to bat.
+Miguel Montero hits a line drive to LF for a single.
+	Miguel Montero reaches 1B.
+Kyle Hendricks is up to bat.
+Kyle Hendricks strikes out.
+3 outs!
+
+Top of 5. CIN: 3 - CHC: 2
+
+Rick Porcello is up to bat.
+Rick Porcello strikes out.
+1 out!
+Mookie Betts is up to bat.
+Mookie Betts hits a fieldable ball to RF.
+2 outs!
+Dustin Pedroia is up to bat.
+Dustin Pedroia hits a fieldable ball to RF.
+3 outs!
+
+Bottom of 5. CIN: 3 - CHC: 2
+
+Dexter Fowler is up to bat.
+Dexter Fowler hits a fieldable ball to SS.
+1 out!
+Kris Bryant is up to bat.
+Kris Bryant strikes out.
+2 outs!
+Anthony Rizzo is up to bat.
+Anthony Rizzo hits a home run.
+	Anthony Rizzo scores.
+Ben Zobrist is up to bat.
+Ben Zobrist strikes out.
+3 outs!
+
+Top of 6. CIN: 3 - CHC: 3
+
+Xander Bogaerts is up to bat.
+Xander Bogaerts hits a fieldable ball to LF.
+1 out!
+Hanley Ramirez is up to bat.
+Hanley Ramirez hits a double.
+	Hanley Ramirez reaches 2B.
+Travis Shaw is up to bat.
+Travis Shaw strikes out.
+2 outs!
+Pitching Substitution: Carl Edwards for Kyle Hendricks. Kyle Hendricks leaves the game with 99 pitches
+Brock Holt is up to bat.
+Brock Holt hits a fieldable ball to SS.
+3 outs!
+
+Bottom of 6. CIN: 3 - CHC: 3
+
+Pitching Substitution: Drew Pomeranz for Rick Porcello. Rick Porcello leaves the game with 96 pitches
+Addison Russell is up to bat.
+Addison Russell draws a walk.
+	Addison Russell reaches 1B.
+Jason Heyward is up to bat.
+Jason Heyward hits a fieldable ball to SS.
+The infield turns a double play!
+2 outs!
+Javier Baez is up to bat.
+Javier Baez hits a fieldable ball to CF.
+3 outs!
+
+Top of 7. CIN: 3 - CHC: 3
+
+Sandy Leon is up to bat.
+Sandy Leon strikes out.
+1 out!
+Jackie Bradley is up to bat.
+Jackie Bradley hits a fieldable ball to SS.
+2 outs!
+Pinch Hitter: Blake Swihart for Drew Pomeranz. Drew Pomeranz leaves the game with 21 pitches
+Blake Swihart is up to bat.
+Blake Swihart strikes out.
+3 outs!
+
+Bottom of 7. CIN: 3 - CHC: 3
+
+Pitching Substitution: Heath Hembree for Blake Swihart.
+Miguel Montero is up to bat.
+Miguel Montero hits a double.
+	Miguel Montero reaches 2B.
+Pinch Hitter: Tommy La Stella for Carl Edwards. Carl Edwards leaves the game with 17 pitches
+Tommy La Stella is up to bat.
+Tommy La Stella draws a walk.
+	Tommy La Stella reaches 1B.
+Dexter Fowler is up to bat.
+Dexter Fowler draws a walk.
+	Miguel Montero advances to 3B.
+	Tommy La Stella advances to 2B.
+	Dexter Fowler reaches 1B.
+Kris Bryant is up to bat.
+Kris Bryant hits a fieldable ball to P.
+1 out!
+Anthony Rizzo is up to bat.
+Anthony Rizzo strikes out.
+2 outs!
+Ben Zobrist is up to bat.
+Ben Zobrist strikes out.
+3 outs!
+
+Top of 8. CIN: 3 - CHC: 3
+
+Pitching Substitution: Hector Rondon for Tommy La Stella.
+Mookie Betts is up to bat.
+Mookie Betts strikes out.
+1 out!
+Dustin Pedroia is up to bat.
+Dustin Pedroia strikes out.
+2 outs!
+Xander Bogaerts is up to bat.
+Xander Bogaerts hits a fieldable ball to P.
+3 outs!
+
+Bottom of 8. CIN: 3 - CHC: 3
+
+Addison Russell is up to bat.
+Addison Russell hits a fieldable ball to P.
+1 out!
+Jason Heyward is up to bat.
+Jason Heyward hits a double.
+	Jason Heyward reaches 2B.
+Javier Baez is up to bat.
+Javier Baez is hit by a pitch.
+	Javier Baez reaches 1B.
+Miguel Montero is up to bat.
+Miguel Montero hits a ground ball between 1B and 2B for a single.
+	Jason Heyward advances to 3B.
+	Javier Baez advances to 2B.
+	Miguel Montero reaches 1B.
+Hector Rondon is up to bat.
+Hector Rondon hits a fieldable ball to C.
+The play results in a fielder's choice. Jason Heyward is out at home.
+	Javier Baez advances to 3B.
+	Miguel Montero advances to 2B.
+	Hector Rondon reaches 1B.
+2 outs!
+Dexter Fowler is up to bat.
+Dexter Fowler strikes out.
+3 outs!
+
+Top of 9. CIN: 3 - CHC: 3
+
+Pitching Substitution: Aroldis Chapman for Hector Rondon. Hector Rondon leaves the game with 13 pitches
+Hanley Ramirez is up to bat.
+Hanley Ramirez draws a walk.
+	Hanley Ramirez reaches 1B.
+Travis Shaw is up to bat.
+Travis Shaw strikes out.
+1 out!
+Brock Holt is up to bat.
+Brock Holt draws a walk.
+	Hanley Ramirez advances to 2B.
+	Brock Holt reaches 1B.
+Sandy Leon is up to bat.
+Sandy Leon strikes out.
+2 outs!
+Jackie Bradley is up to bat.
+Jackie Bradley hits a fieldable ball to P.
+3 outs!
+
+Bottom of 9. CIN: 3 - CHC: 3
+
+Pitching Substitution: Craig Kimbrel for Heath Hembree. Heath Hembree leaves the game with 58 pitches
+Kris Bryant is up to bat.
+Kris Bryant hits a triple.
+	Kris Bryant reaches 3B.
+Anthony Rizzo is up to bat.
+Anthony Rizzo hits a double.
+	Kris Bryant scores.
+	Anthony Rizzo reaches 2B.
+
+Chicago Cubs win, 4 to 3
