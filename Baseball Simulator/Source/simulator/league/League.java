@@ -45,7 +45,7 @@ public class League {
 	public static void playLeagueGames() throws IOException {
 		createLeague();
 		input = new Scanner(System.in);
-		System.out.println("Which year do you want to play out?");
+		System.out.println("Which year do you want to play out? (2016 or 2017)");
 		String year = input.next();
 		createSchedule(year);	
 		setTeamsForGameOnDate();

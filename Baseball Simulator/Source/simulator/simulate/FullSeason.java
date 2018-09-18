@@ -36,7 +36,7 @@ public class FullSeason {
 		GameStats.clearFiles();
 		System.out.println("Playing games...");
 		// 2430
-		while(num < 2430 && League.games[num] != null) {
+		while(num < 243 && League.games[num] != null) {
 			Game.away = League.leagueTeams.get(League.leagueTeamStrings.indexOf(League.games[num].substring(0, 3)));
 			Game.home = League.leagueTeams.get(League.leagueTeamStrings.indexOf(League.games[num].substring(6, 9)));
 			if(Game.away != null && Game.home != null) {
@@ -58,9 +58,12 @@ public class FullSeason {
 	
 	public static void getStatsAfterSeason() throws IOException {
 		Scanner stats = new Scanner(System.in);
-		System.out.println("What would you like to do now?");
-		String bluh = stats.next().toUpperCase();
+		String bluh = "";
+		
 		while(!bluh.equalsIgnoreCase("quit")) { 
+			System.out.println("\nWhat would you like to do now? (Type the word into the console)");
+			System.out.println("\n\t'Quit'\n\t'Standings'\n\t'Playoffs' (Simulates playoffs through World Series)\n\t'Season Statistics' (Type the team's abbreviation to see that team's individual stats, i.e. 'SFG')\n");
+			bluh = stats.next().toUpperCase();
 			if(League.leagueTeamStrings.contains(bluh)) {
 				SeasonStats.printSeasonStats(League.leagueTeams.get(League.leagueTeamStrings.indexOf(bluh)));
 			}
@@ -80,9 +83,8 @@ public class FullSeason {
 				Playoffs.playDivisionalSeries();
 				Playoffs.playConferenceSeries();
 				Playoffs.playWorldSeries();
+				break;
 			}
-			System.out.println("What would you like to do now?");
-			bluh = stats.next().toUpperCase();
 		}
 		stats.close();
 	}
